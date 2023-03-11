@@ -5,6 +5,7 @@ body {
 }
 
 .container-main {
+    margin-left: 61px;
     padding: 0 125px;
 }
 
@@ -23,7 +24,7 @@ h1 {
 .container-team-pct {
     width: 1150px;
     height: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 121px;
     padding-top: 379px;
     padding-left: 40px;
     background-image: url('../resources/chair_rlx.jpg');
@@ -40,7 +41,6 @@ h1 {
     position: absolute;
     width: 430px;
     height: 81px;
-    padding-left: 10px;
     padding-bottom: 40px;
     font-style: normal;
     font-weight: 400;
@@ -82,7 +82,7 @@ h2 {
     display: block;
     width: 255px;
     height: 67px;
-    margin-bottom: 113px;
+    margin-bottom: 151px;
     box-sizing: border-box;
     font-size: 20px;
     line-height: 67px;
@@ -99,17 +99,18 @@ h2 {
 .prj {
     width: 1150px;
     height: 2122px;
-    margin-left: 125px;
+    margin-left: 185px;
     margin-bottom: 150px;
 }
 
+/*пришлось добавить отдельный класс, тк margin-bottom не работал*/
 .prj__pict-appart-one {
-    margin-bottom: 15px;
+    margin-bottom: 13px;
 }
 
 .prj__pict-appart {
     margin-top: 90px;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
 }
 
 .prj__title {
@@ -161,7 +162,7 @@ h2 {
 .blck-container {
     width: 1400px;
     height: 1844px;
-    margin-left: 55px;
+    margin-left: 60px;
     background-color: #121212;
 }
 
@@ -197,13 +198,13 @@ h3 {
 }
 
 .pct {
-    margin-bottom: 15px;
+    margin-bottom: 13px;
 }
 
 .container-bed-pct {
     width: 1400px;
     height: 717px;
-    margin-left: 55px;
+    margin-left: 60px;
     font-family: 'Manrope';
     font-weight: 400;
     font-size: 30px;
