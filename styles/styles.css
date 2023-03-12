@@ -103,7 +103,6 @@ h2 {
     margin-bottom: 150px;
 }
 
-/*пришлось добавить отдельный класс, тк margin-bottom не работал*/
 .prj__pict-appart-one {
     margin-bottom: 13px;
 }
