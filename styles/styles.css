@@ -1,11 +1,11 @@
 body {
+    margin: 0 auto;
     width: 1400px;
     height: 7211px;
     font-family: 'Manrope', sans-serif;
 }
 
 .container-main {
-    margin-left: 61px;
     padding: 0 125px;
 }
 
@@ -101,7 +101,7 @@ h2 {
 .prj {
     width: 1150px;
     height: 2122px;
-    margin-left: 185px;
+    margin-left: 125px;
     margin-bottom: 150px;
 }
 
@@ -163,7 +163,6 @@ h2 {
 .blck-container {
     width: 1400px;
     height: 1844px;
-    margin-left: 60px;
     background-color: #121212;
 }
 
@@ -204,7 +203,6 @@ h3 {
 .container-bed-pct {
     width: 1400px;
     height: 717px;
-    margin-left: 60px;
     font-family: 'Manrope';
     font-weight: 400;
     font-size: 30px;
