@@ -9,6 +9,10 @@ body {
     padding: 0 125px;
 }
 
+h1, h2, h3 {
+    letter-spacing: -0.03em;
+}
+
 h1 {
     width: 956px;
     height: 120px;
@@ -18,7 +22,6 @@ h1 {
     font-size: 60px;
     color: #121212;
     line-height: 60px;
-    letter-spacing: -0.03em;
 }
 
 .container-team-pct {
@@ -74,7 +77,6 @@ h2 {
     font-weight: 400;
     color: #121212;
     line-height: 25px;
-    letter-spacing: -0.03em;
     text-transform: uppercase;
 }
 
@@ -173,7 +175,6 @@ h3 {
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    letter-spacing: -0.03em;
     text-transform: uppercase;
     color: #FFFFFF;
 }
