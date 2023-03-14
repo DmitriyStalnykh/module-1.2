@@ -203,22 +203,24 @@ h3 {
 .container-bed-pct {
     width: 1400px;
     height: 717px;
-    font-family: 'Manrope';
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 41px;
-    color: #FFFFFF;
-    letter-spacing: -0.03em;
     background-image: url('../resources/bedroom.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.container-text {
+    position: relative;
 }
 
 .text-bed {
+    position: absolute;
     width: 443px;
     height: 82px;
     margin-left: 125px;
     padding-top: 575px;
     color: #FFFFFF;
+    font-family: 'Manrope';
     font-weight: 400;
     font-size: 30px;
     line-height: 41px;
